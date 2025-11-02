@@ -1,4 +1,4 @@
-# ZKEncrypt CLIa
+# ZKEncrypt CLI
 
 Command-line interface for ZKEncrypt Network - Manage your FHE operations, payments, and more from the terminal.
 
